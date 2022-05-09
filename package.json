@@ -1,0 +1,19 @@
+{
+  "name": "@platinum-ge/image",
+  "version": "0.2.1",
+  "description": "Image utilities for Platinum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksrutins/platinum-image.git"
+  },
+  "author": "Aleks Rutins <aleks@rutins.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleksrutins/platinum-image/issues"
+  },
+  "homepage": "https://github.com/aleksrutins/platinum-image#readme"
+}
